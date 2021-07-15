@@ -1,12 +1,13 @@
 #ifndef MAIN_H
 #define MAIN_H
-#include <stdio.h>
+#include <iostream>
 
-public:
-	
+class main {
+	public:
+		
 
-private:
-	
+	private:
+		
 
-
+};
 #endif
