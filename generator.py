@@ -1,7 +1,6 @@
 #Imports
 import sys
 import os
-from shutil import copyfile
 
 subdirs = {".vscode", "headers", "obj", "src"}
 
